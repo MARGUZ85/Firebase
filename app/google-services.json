@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801266135925",
+    "project_id": "proyecto-mensajes-a6e86",
+    "storage_bucket": "proyecto-mensajes-a6e86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801266135925:android:300f8a16c532ce2a74593c",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn15wwMeBaI0eA7B4--yRr8Y2R9Qs7ARA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
